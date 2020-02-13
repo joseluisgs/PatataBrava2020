@@ -14,6 +14,5 @@ José Luis González Sánchez: [@joseluisgonsan](https://twitter.com/joseluisgon
 2020 CIFP Virgen de Gracia
 
 #### Otros
-Tutorial de [UNITY](https://learn.unity.com/tutorial/live-sessions-on-2d-in-unity-4-3#)
-
-Otros [Tutoriales 2D](https://learn.unity.com/course/beginning-2d-game-development)
+* Tutorial de [UNITY](https://learn.unity.com/tutorial/live-sessions-on-2d-in-unity-4-3#)
+* Otros [Tutoriales 2D](https://learn.unity.com/course/beginning-2d-game-development)
